@@ -1,0 +1,2 @@
+# This project relies exclusively on the Python Standard Library (e.g., os, datetime, math).
+# No external third-party packages are required.
